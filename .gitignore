@@ -17,5 +17,8 @@ venv/
 .ipynb_checkpoints/
 
 # Temporary files
+# SQLite database - generated locally
+*.db
+
 *.tmp
 *.log
